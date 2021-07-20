@@ -1,5 +1,6 @@
 book_filename: "R_ejercicios"
 delete_merged_file: true
+ouput_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
