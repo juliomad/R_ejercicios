@@ -1,0 +1,5 @@
+book_filename: "R_ejercicios"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
